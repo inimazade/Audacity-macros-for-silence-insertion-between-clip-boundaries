@@ -1,0 +1,10 @@
+SelCursorToTrackEnd:
+Cut:
+CursTrackEnd:
+SelectTime:End="-1" RelativeTo="SelectionEnd" Start="0"
+Silence:Use_Preset="<Current Settings>"
+CursTrackEnd:
+Paste:
+CursSelStart:
+SelCursorToNextClipBoundary:
+CursSelEnd:
